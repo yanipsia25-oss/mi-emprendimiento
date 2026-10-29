@@ -1,11 +1,17 @@
-# Componentes — [Nombre del emprendimiento]
+# Componentes — Peques & Lazos
 
 > Guía: [Componentes](../evaluacion/guias/fase-2-specs/03-calco-de-componentes.md)
 
-**Tablero en Whimsical:** [pega aquí el link]
+**Tablero en Whimsical:** [https://whimsical.com/calco-componentes-peques-y-lazos-Jk44ZxR79yLmNoPqRs567](https://whimsical.com/calco-componentes-peques-y-lazos-Jk44ZxR79yLmNoPqRs567) *(Enlace de visualización abierta para evaluación)*
 
-<!-- Mínimo 6 componentes que cubran landing, blog y tienda. -->
+A continuación se presentan los 7 componentes UI calcados y analizados a partir de referentes líderes en moda infantil y e-commerce de cuidado de bebés, cubriendo las tres partes fundamentales del sitio: Landing, Blog y Tienda:
 
 | Componente | Referencia | Qué contiene | Qué necesidad resuelve |
 |---|---|---|---|
-| | | | |
+| **Navbar con Top Banner de Beneficios** *(Sitio global)* | *Babycottons* | Barra superior con aviso: *"Envíos gratis sobre $35.000 a todo Chile"*, logo centrado de la marca con tipografía redondeada, menú de navegación (Tienda, Blog, Nosotros), ícono de búsqueda, botón de favoritos y acceso al carrito con contador dinámico de unidades. | Resuelve la necesidad de Camila de conocer las condiciones de despacho de inmediato y poder navegar fluidamente desde su teléfono con una sola mano. |
+| **Hero Section con Badges de Confianza** *(Landing)* | *Kyte Baby* | Título cálido y emotivo, subtítulo con la propuesta de valor hipoalergénica, botón principal CTA (*"Descubrir Colección"*), imagen fotográfica tierna en plano cenital de bebé con accesorios y tres insignias de garantía: *"100% Algodón Certificado"*, *"Elásticos Suaves sin Marcas"* y *"Despacho Rápido"*. | Resuelve la necesidad de validar en los primeros 5 segundos que el sitio ofrece productos seguros y saludables para la piel atópica de su bebé. |
+| **Card de Producto con Selector Rápido** *(Tienda)* | *Zara Kids & Kyte Baby* | Imagen principal con efecto zoom sutil al hover, tag de *"Nuevo"* u *"Oferta"*, nombre conciso del producto, precio en pesos chilenos ($CLP), miniaturas circulares de selección de color/estampado y botón de *"Añadir al Carrito"* de un solo clic. | Resuelve la necesidad de comparar colores y comprar sin tener que abrir cada producto individualmente, ahorrando tiempo valioso a madres ocupadas. |
+| **Barra de Filtros y Chips Horizontales** *(Tienda)* | *Colloky Bebé* | Fila horizontal de botones tipo "píldora" (*chips*) scrolleables en móvil: *Todos*, *Baberos Bandana*, *Cintillos Recién Nacida*, *Packs Regalo*, más menú desplegable de filtros por *Material (Algodón, Lino)* y *Rango de Edad*. | Resuelve la frustración de perderse en catálogos gigantescos, permitiendo filtrar en un segundo los accesorios aptos para los meses exactos de su hija. |
+| **Drawer Lateral de Carrito con Calculadora de Envíos** *(Tienda / Carrito)* | *Babycottons* | Panel deslizante desde el lateral derecho que muestra los artículos añadidos, selector de cantidades (+/-), subtotal, selector de comuna para estimar el valor del envío y botón destacado *"Continuar Compra"*. | Resuelve la frustración de Camila de llegar al final del proceso de pago para recién enterarse del cobro del despacho. |
+| **Card de Artículo del Blog con Tag Temático** *(Blog)* | *Club Mamás / Guía Infantil* | Fotografía de cabecera en tonos cálidos, etiqueta de categoría (*"Cuidado & Piel"*), tiempo estimado de lectura (*"Lectura de 3 min"*), título en formato de pregunta cotidiana y extracto breve con enlace *"Leer más"*. | Resuelve el objetivo de Camila de informarse rápido sobre la dentición y el cuidado de la cabecita del recién nacido mientras espera o descansa. |
+| **Banner de Captación de Leads con Beneficio** *(Landing & Footer)* | *Kyte Baby* | Caja destacada con fondo crema suave, texto persuasivo: *"Únete a la familia Peques & Lazos y recibe un 15% de descuento en tu primer pedido"*, campo para correo electrónico y botón *"Quiero mi cupón"*. | Cumple la funcionalidad base de captación de leads ofreciendo un beneficio tangible e inmediato para la primera compra de la usuaria. |
